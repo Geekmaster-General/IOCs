@@ -1,0 +1,58 @@
+Based on Darknet research, a new version of the Redeemer Ransomware has been released to the public. The hacker was kind enough to include his file hashes
+
+ 
+VERSION 2.0:
+
+build.dat:
+86bd9cdfdb425266c477544a5cf951fdc56733d46f1a7b44f8188168b5e2fb15
+
+Affiliate Toolkit.exe:
+4368f30798a1caa0a7b30735111e143068678a0547dfd38c050926619869c73a
+
+Decrypter.exe:
+bf8f74a05e4a10ab893c73bc95ed16c3b5c6ffe6e257c098b33c04c3a893acb9
+
+VERSION 1.7:
+
+build.dat:
+97fd9f15a70326bd7eaa7489e6f75bf118546a11cb249902723221dd68802e7c
+
+decipher_unit.exe:
+3b2d618e3b0e1c567e74ae298adeec4b589de973f4f85fbb2d787a3b4bdf2169
+
+user_unit.exe:
+7c8dc5d401238f679c24463c4dc79c89636f41b8b328e0e02d81e7a1ad8442b1
+
+VERSION 1.5:
+
+build.dat:
+dfa6020a0707d21b16919724eb5631ac2bceafc2d62a3b9beb0fb61e17dd65c5
+
+decipher_unit.exe:
+2d957725cebca36bdc72e4d8a85c520482b24a26f29878a91e5d6fc979791efa
+
+user_unit.exe:
+263c0967c12c1566b72cc8cac7191dda941d28650de8323f63eed4113b51d9f2
+
+VERSION 1.0:
+
+build.dat:
+b37195501131efa350689b6052002a7de0f2c1acae639e52423b410c6fb69bf2
+
+decipher_unit.exe:
+dc1629358c2664192e53ca22ce006a5da08a4c4ae7874595223ef9b2e52cd624
+
+user_unit.exe:
+532d9c123dbc30a250b20cb7894ed8e8b9170dfa415d2c88c723418d93f1fdc2
+
+ 
+
+IP IOC’s
+
+161.97.135.85
+
+185.26.182.111
+
+185.26.182.117
+
+185.26.182.124

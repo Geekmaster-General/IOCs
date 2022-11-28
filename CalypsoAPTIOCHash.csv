@@ -1,0 +1,10 @@
+﻿IndicatorType,IndicatorValue,ExpirationTime,Action,Severity,Title,Description,RecommendedActions,Scope/DeviceGroups,Category,MitreTechniques,GenerateAlert
+FileSha256,df814d4b55912e4ba404c62080b3a7eda70a3c6283ea740f8a14a9116d803259,,BlockAndRemediate,Informational,Calypso APT IOC,It has been reported that Calypso APT is reportedly active in cyberspace. The Chinese state-sponsored threat activity group is reportedly exploiting the Proxy Logon Microsoft Exchange vulnerability. Threat actors abuse the vulnerability and install Plug X malware on the targeted system.,,,,,FALSE
+FileSha256,fd3818471ce2d0f3f6eb0ab5645c8b2c341e69c611ff5bd6524b145a9db046e8,,BlockAndRemediate,Informational,Calypso APT IOC,It has been reported that Calypso APT is reportedly active in cyberspace. The Chinese state-sponsored threat activity group is reportedly exploiting the Proxy Logon Microsoft Exchange vulnerability. Threat actors abuse the vulnerability and install Plug X malware on the targeted system.,,,,,FALSE
+FileSha256,01a2f1028271c29c2a76466e03087bf0b9b0425f1dba0d4eb139b8d25c57d5b7,,BlockAndRemediate,Informational,Calypso APT IOC,It has been reported that Calypso APT is reportedly active in cyberspace. The Chinese state-sponsored threat activity group is reportedly exploiting the Proxy Logon Microsoft Exchange vulnerability. Threat actors abuse the vulnerability and install Plug X malware on the targeted system.,,,,,FALSE
+FileSha256,5c9a5cd36264cbed007544082309502d0bd1381ac3f8b7fbb3ee312f1d037716,,BlockAndRemediate,Informational,Calypso APT IOC,It has been reported that Calypso APT is reportedly active in cyberspace. The Chinese state-sponsored threat activity group is reportedly exploiting the Proxy Logon Microsoft Exchange vulnerability. Threat actors abuse the vulnerability and install Plug X malware on the targeted system.,,,,,FALSE
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
