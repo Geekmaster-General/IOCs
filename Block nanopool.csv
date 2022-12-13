@@ -1,0 +1,12 @@
+﻿IndicatorType,IndicatorValue,ExpirationTime,Action,Severity,Title,Description,RecommendedActions,Scope/DeviceGroups,Category,MitreTechniques,GenerateAlert
+IpAddress,51.15.58.224,,BlockAndRemediate,Informational,Crypto mining pool block,Crypto mining pool block,Check user's machine for PUP or unwanted browser extensions.,,,,FALSE
+IpAddress,217.182.169.148,,BlockAndRemediate,Informational,Crypto mining pool block,Crypto mining pool block,Check user's machine for PUP or unwanted browser extensions.,,,,FALSE
+IpAddress,51.15.69.136,,BlockAndRemediate,Informational,Crypto mining pool block,Crypto mining pool block,Check user's machine for PUP or unwanted browser extensions.,,,,FALSE
+IpAddress,51.83.33.228,,BlockAndRemediate,Informational,Crypto mining pool block,Crypto mining pool block,Check user's machine for PUP or unwanted browser extensions.,,,,FALSE
+IpAddress,135.125.238.108,,BlockAndRemediate,Informational,Crypto mining pool block,Crypto mining pool block,Check user's machine for PUP or unwanted browser extensions.,,,,FALSE
+IpAddress,46.105.31.147,,BlockAndRemediate,Informational,Crypto mining pool block,Crypto mining pool block,Check user's machine for PUP or unwanted browser extensions.,,,,FALSE
+IpAddress,51.68.137.66,,BlockAndRemediate,Informational,Crypto mining pool block,Crypto mining pool block,Check user's machine for PUP or unwanted browser extensions.,,,,FALSE
+IpAddress,51.15.65.182,,BlockAndRemediate,Informational,Crypto mining pool block,Crypto mining pool block,Check user's machine for PUP or unwanted browser extensions.,,,,FALSE
+IpAddress,51.15.78.68,,BlockAndRemediate,Informational,Crypto mining pool block,Crypto mining pool block,Check user's machine for PUP or unwanted browser extensions.,,,,FALSE
+IpAddress,51.15.54.102,,BlockAndRemediate,Informational,Crypto mining pool block,Crypto mining pool block,Check user's machine for PUP or unwanted browser extensions.,,,,FALSE
+IpAddress,51.68.143.81,,BlockAndRemediate,Informational,Crypto mining pool block,Crypto mining pool block,Check user's machine for PUP or unwanted browser extensions.,,,,FALSE
