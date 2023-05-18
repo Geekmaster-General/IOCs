@@ -1,0 +1,24 @@
+The red-teaming and attack simulation tool Cobalt Strike has a long and widely observed history of abuse by threat actors targeting Windows platforms, but it has only occasionally been seen used against macOS devices. That, however, appears to be changing with the development of a Go implementation of Cobalt Strike called ‘Geacon’.
+
+We have observed a number of Geacon payloads appearing on VirusTotal in recent months. While some of these are likely red-team operations, others bear the characteristics of genuine malicious attacks. In this post, we highlight two recent Geacon samples and describe their delivery mechanisms and main characteristics. A list of IoCs is provided to aid threat hunters and security teams identify Geacon payloads.
+
+Geacon SHA1s
+6831d9d76ca6d94c6f1d426c1f4de66230f46c4a
+752ac32f305822b7e8e67b74563b3f3b09936f89
+bef71ef5a454ce8b4f0cf9edab45293040fc3377
+c5c1598882b661ab3c2c8dc5d254fa869dadfd2a
+e7ff9e82e207a95d16916f99902008c7e13c049d
+fa9b04bdc97ffe55ae84e5c47e525c295fca1241
+
+Observed Geacon C2s
+47.92.123.17
+13.230.229.15
+
+BundleIdentifiers
+com.apple.ScriptEditor.id.1223
+com.apple.automator.makabaka
+
+Suspicious File Paths
+~/runoob.log
+
+Reference: https://www.sentinelone.com/blog/geacon-brings-cobalt-strike-capabilities-to-macos-threat-actors/?&web_view=true
