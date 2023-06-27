@@ -1,3 +1,18 @@
 Russian C2 servers taken from Vulkan Files leak
 217.20.147.94
 217.69.134.208
+type_id: id: 1  value: 217.20.147.94
+type_id: id: 3  value: 217.69.134.208
+type_id: id: 5  value: 217.69.134.206
+type_id: id: 6  value: 217.69.134.207
+type_id: id: 7  value: 94.100.191.211
+type_id: id: 9  value: 94.100.191.213
+type_id: id: 10  value: 94.100.179.243
+type_id: id: 12  value: 94.100.189.216
+type_id: id: 14  value: 217.69.136.54
+type_id: id: 16  value: 217.69.134.215
+type_id: id: 18  value: 217.69.134.214
+type_id: id: 19  value: 173.194.70.103 (Google US server)
+type_id: id: 21  value: 173.194.70.104 (Google US server)
+type_id: id: 22  value: 173.194.70.105 (Google US server)
+type_id: id: 23  value: 173.194.70.106 (Google US server)
