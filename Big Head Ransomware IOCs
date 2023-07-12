@@ -41,4 +41,6 @@ iXZAF					          40e5050b894cb70c93260645bf9804f50580050eb131e24f30cb91eec9ad
 XBtput.exe 				      25294727f7fa59c49ef0181c2c8929474ae38a47b350f7417513f1bacf8939ff	Ransom.MSIL.EGOGEN.YXDEL	Third sample
 XBtput2.exe 				    dcfa0fca8c1dd710b4f40784d286c39e5d07b87700bdc87a48659c0426ec6cb6	Ransom.MSIL.EGOGEN.YXDEO	
 
+Encrypted files carry the file extension: .poop
+
 Full report from Trend Micro here: https://www.trendmicro.com/en_us/research/23/g/tailing-big-head-ransomware-variants-tactics-and-impact.html
