@@ -15,3 +15,7 @@ Sending Domain: agcar.net
 Phising Domain: fe7tgapvd.grupopedrabonita.com.br (shows 403 error in Sandbox, Defender SmartScreen automatically blocks)
 Resolved IP: 192.185.216.184
 Sending Domain: eddiestanfield.com
+
+Phishing Domain: klenzo.cl (blocked by Defender SmartScreen)
+Resolved IP: 130.0.120.13 (Chile)
+Sending Domain: hohoko-style.com
