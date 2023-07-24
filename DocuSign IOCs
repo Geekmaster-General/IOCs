@@ -1,0 +1,17 @@
+IOCs from recent DocuSign phishing emails that should be blocked on your email server and endpoints
+
+Phishing Domain: moonstarxl.com (prompts for O365 Login)
+Resolved IP: 172.67.186.192 (US Cloudflare)
+Sending Domain: atwaterbeer.com
+
+Phishing Doman: 6rv3dl5qm9nj0gp1ks7.g6p.ru (prompts for O365 login)
+Resolved IP: 104.21.60.227 (US Cloudflare)
+Sending Domain: trutemphvac.com
+
+Phishing Domain: l.email.bankmobile.com (prompts for O365 login)
+Resolved IP: 172.213.4.147 (US Cheeta-mail)
+Sending Domain: agcar.net
+
+Phising Domain: fe7tgapvd.grupopedrabonita.com.br (shows 403 error in Sandbox, Defender SmartScreen automatically blocks)
+Resolved IP: 192.185.216.184
+Sending Domain: eddiestanfield.com
