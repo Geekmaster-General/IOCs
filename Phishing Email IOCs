@@ -1,0 +1,41 @@
+IOCs from Phishing emails reported by my users that should be blocked on your email server and endpoints
+
+"Password Reset" Phish
+Phishing Domain: trailblazingtrans.com (Blocked by Defender SmartScreen)
+Resolved IP: 162.241.120.242 (NetworkSolutions US)
+Sending Domain: dsgo.org
+
+Phishing Domain: dreamachronicles.co.zw (server DoS)
+Resolved IP: 104.21.46.195 (Cloudflare)
+Sending Domain: ikyam.com
+
+Phishing Domain: http://login.minmetal.co.uk/ (connection refused)
+Resolved IP: 172.187.218.164 (Azure UK)
+Sending Domain: sdsdental.co.uk
+
+Phishing Domain: r.srvtrck.com (Blocked by Defender SmartScreen)
+Resolved IP: 104.18.206.219 (Cloudflare)
+Sending Domain: berksyouthchorus.org
+
+Phishing Domain: jocopar.com.br
+Resolved IP: 162.214.175.250 (US)
+Sending Domain: csibpo.com
+
+Phishing Domain: berrantesbjsboiadeiro.com.br
+Resolved IP: 31.170.163.201 (US)
+Sending Domain: mpluscreate.com
+
+"Microsoft Teams File" Phish
+Phishing Domain: vitalityss.co (cypher mismatch error)
+Resolved IP: 45.153.243.131 (Germany)
+Sending Domain: stonegatecommunities.com
+
+"Storage is Full" Phish
+Phishing Domain:  myalumni.mcgill.ca (target page deleted)
+Resolved IP: 104.17.58.157 (valid McGill Alumni page)
+Sending Domain: kwadwo_brotone4@icloud.com
+
+"Messages on Hold" Phish
+Phishing Domain: tzmk.uz
+Resolved IP: 62.209.128.119 (Uzbekistan)
+Sending Domain: Spoofed company address. Source IP 150.242.140.13 (India)
