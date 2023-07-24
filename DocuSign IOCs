@@ -1,4 +1,4 @@
-IOCs from recent DocuSign phishing emails that should be blocked on your email server and endpoints
+IOCs from DocuSign phishing emails that should be blocked on your email server and endpoints
 
 Phishing Domain: moonstarxl.com (prompts for O365 Login)
 Resolved IP: 172.67.186.192 (US Cloudflare)
@@ -19,3 +19,39 @@ Sending Domain: eddiestanfield.com
 Phishing Domain: klenzo.cl (blocked by Defender SmartScreen)
 Resolved IP: 130.0.120.13 (Chile)
 Sending Domain: hohoko-style.com
+
+Phishing Domain: greatneinserve.com (NXDOMAIN error)
+Resolved IP: Does not resolve
+Sending Domain: oner.com.ar
+
+Phishing Domain: yatesestatesga.com
+Resolved IP: 172.67.141.15 (US Cloudflare)
+Sending Domain: guidinglightcenter.org
+
+Phishing Domain: console.ebsta.com (Redirect blocked by ebsta.com due to it being suspicious)
+Resolved IP: 3.234.126.47 (US Amazon)
+Sending Domain: sb-aws.com
+
+Phishing Domain: jur1a3ktl1641b0c5680b4b.horada.ru
+Resolved IP: Does not resolve
+Sending Domain: voltechgroup.com
+
+Phishing Domain: myalumni.mcgill.ca (target page deleted)
+Resolved IP: 104.17.58.157 (valid McGill Alumni page)
+Sending Domain: event-web.net
+
+Phishing URL: hiistanbul.sa.com
+Resolved IP: Does not resolve
+Sending Domain: bexfight.tk
+
+Phishing URL: pje65p.codesandbox.io
+Resolved IP: 104.18.7.114 (Cloudflare)
+Sending Domain: event-web.net
+
+Phishing URL: polo.feathr.co
+Resolved IP: 42.208.69.202 (US Amazon)
+Sending Domain: mail-sprintmarketing.ca
+
+Phishing URL: canergrup.com.tr
+Resolved IP: 85.95.249.5 (Turkey)
+Sending Domain: 
