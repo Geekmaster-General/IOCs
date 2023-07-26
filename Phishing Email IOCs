@@ -25,6 +25,10 @@ Phishing Domain: berrantesbjsboiadeiro.com.br
 Resolved IP: 31.170.163.201 (US)
 Sending Domain: mpluscreate.com
 
+Phishing Domain: apiservices.krxd.net
+Resolved IP: 151.101.194.133 (US Fastly = shitty VPN service that gets hacked all the time lol)
+Sending Domain: congregationhabonim.org
+
 "Microsoft Teams File" Phish
 Phishing Domain: vitalityss.co (cypher mismatch error)
 Resolved IP: 45.153.243.131 (Germany)
@@ -39,6 +43,10 @@ Sending Domain: kwadwo_brotone4@icloud.com
 Phishing Domain: tzmk.uz
 Resolved IP: 62.209.128.119 (Uzbekistan)
 Sending Domain: Spoofed company address. Source IP 150.242.140.13 (India)
+
+Phishing Domain: masterpsascomplete.com
+Resolved IP: 104.21.63.126 (Cloudflare)
+Sending Domain: linkasink.com
 
 "SharePoint Documents" Phish
 Phishing Domain: links.marketing.audicrm.co.uk (access denied message)
