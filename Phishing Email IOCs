@@ -53,6 +53,10 @@ Phishing Domain: links.marketing.audicrm.co.uk (access denied message)
 Resolved IP: 13.224.222.71 (US Amazon CloudFront)
 Sending Domain: conectandolocal.net
 
+Phishing Domain: autoconnect-employer.info (came from a LinkedIn redirect URL hxxps://linkedin.com/slink?code=grFXbCmW#YW5hLnRhbmdhcmlAaGVhci5jb20= that resolved to this domain. Blocked by Defender SmartScreen.)
+Resolved IP: 104.21.73.211
+Sending Domain: kascoeng.com
+
 "Xerox Fax" Phish
 Phishing Domain: nms6tcrb0o.loughly.tech
 Resolved IP: 199.192.25.226 (US Namecheap)
