@@ -56,7 +56,10 @@ Phishing URL: canergrup.com.tr
 Resolved IP: 85.95.249.5 (Turkey)
 Sending Domain: 
 
-
 Phishing URL: svar.tryg.no (Blocked by Defender SmartScreen)
 Resolved IP: 195.69.224.119 (Denmark)
 Sending Domain: lawsdemers.com
+
+Phishing URL: https://security.microsoft.com/urls/bafkreihffagwdmg4zbpgop76xncqugakewjlcc47g45ih7khiscilyi2ay.ipfs.dweb.link (Blocked by Defender SmartScreen)
+Resolved IP: 104.21.73.211
+Sending Domain: tbaautoparts.com
