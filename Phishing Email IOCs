@@ -57,6 +57,10 @@ Phishing Domain: autoconnect-employer.info (came from a LinkedIn redirect URL hx
 Resolved IP: 104.21.73.211
 Sending Domain: kascoeng.com
 
+Phishing Domain: cmchotles.com (Defender SmartScreen blocks)
+Resolved IP: 172.67.195.200 (US Cloudflare)
+Sending Domain: iotaphitheta.org
+
 "Xerox Fax" Phish
 Phishing Domain: nms6tcrb0o.loughly.tech
 Resolved IP: 199.192.25.226 (US Namecheap)
