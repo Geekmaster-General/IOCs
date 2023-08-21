@@ -29,6 +29,10 @@ Phishing Domain: apiservices.krxd.net
 Resolved IP: 151.101.194.133 (US Fastly = shitty VPN service that gets hacked all the time lol)
 Sending Domain: congregationhabonim.org
 
+Phishing Domain: o513.ru
+Resolved IP: 104.21.55.116 (Cloudflare US)
+Sending Domain: bigpond.net.au
+
 "Microsoft Teams File" Phish
 Phishing Domain: vitalityss.co (cypher mismatch error)
 Resolved IP: 45.153.243.131 (Germany)
