@@ -65,5 +65,9 @@ Resolved IP: 104.21.73.211
 Sending Domain: tbaautoparts.com
 
 Phishing URL: blindrepairedmonton.ca or challengeteambuilding.com
-Resolved IP: [does not resolve to IP] or 104.21.21.227 (CLoudflare)
+Resolved IP: [does not resolve to IP] or 104.21.21.227 (Cloudflare)
 Sending Domain: emchilgee.com
+
+Phising URL: c90lmo9297364746znn44x48.dev (Blocked by Defender SmartScreen)
+Resolved IP: 104.21.78.37 (Cloudflare)
+Sending Domain: xilo.my.id
