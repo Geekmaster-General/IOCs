@@ -78,3 +78,12 @@ Sending Domain: brightwellaquatics.com
 Phishing Domain: mainrotyry.top
 Resolved IP: 172.67.220.85 (US Cloudflare)
 Sending Domain: boisestate.edu
+
+"Security Authentication" Phish
+These are new phishing attacks that send a QR code to scan to take you to a phishing site. I collected this data by scanning the QR code and detonating the URL in my sandbox. Uses multiple re-directs.
+Phishing Domain 1: 483-dfxjsf2.one (first hop, warning presented by SmartScreen) 
+Phishing Domain 2: fmasoewqrcde32q09idtg.reoirewoqrcde.top (took you to a really bad captcha spoof, which then presented a Microsoft login screen for username) 
+Phishing Domain 3: l1ve.reoirewoqrcde.top (requested password - shows you an account blocked window, prompting you to reset your password) 
+Phishing Domain 4: account.reoirewoqrcde.top (which takes you through account recovery. It then  prompts you for a bogus security question (if you select that option): "Mother's maiden name"; or if you go the email verification route it will ask you for the last 4 digits of your phone number because it is "splitting" the token values between your email and phone. Doesn't matter what you enter, it always comes back as "That didn't work" or "Service unavilable, try again later". They really want your shit)
+Resolved IP: 111.90.145.243 (MY) & 79.110.62.139 (NL - last 3 domains resolve to this IP) 
+Sending Domain: iwave.com
