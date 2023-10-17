@@ -84,3 +84,19 @@ Phishing URL: iancampbell.ie
 Resolved IP: 91.136.49.200 (Hostopia CA)
 Sending Domain: ushabreco.com
 Additional IOCs: 87.236.16.155 (Russian); gem.godaddy.com (198.71.248.151); cs1100.wpc.omegacdn.net (152.199.23.37); hotelsrb.in (204.11.59.34); for24.ru (87.236.16.155)
+
+Phishing URL: https://gem.godaddy.com/signups/activate/MS0tZVFENDJJT0xDT1lMVnR6UHdPSEhBbHFEdHJHd2t1MW9lWXdRZEdsdnk0eU1wQXdNenNWd0Q5bnhQZGNxQjErbGFvelRSMWhnK2wvQ0ZDVDZJVHNXUERZPS0tckJTSk9YSXJCR2dGaEhlNS0tQ3Zkdmtad2VCK0t3aDRqVzROT0JEUT09?signup=6866525#cmljYXJkby5mYXJpbmFzQGhlYXIuY29t
+Resolved IP: 198.71.248.151 (GoDaddy US)
+Sending Domains: omaweb.org, fish.hokudai.ac.jp
+
+Phishing URLs: https://r20.rs6.net/error.jsp?e=7wrvtegbb; https://r20.rs6.net/error.jsp?e=66pyahgbb
+Resolved IP: 208.75.122.11 (USA)
+Sending Domains: freshairfitness.co.uk; last-onmyoji.jp; aeq.es
+
+Phishing URL: efax1023-0893485.pages.dev
+Resolved IP: 172.66.47.171 (Cloudflare US)
+Sending Domain: admin@ceatindia.org
+
+Phishing URL: 
+Resolved IP: 
+Sending Domain: 
