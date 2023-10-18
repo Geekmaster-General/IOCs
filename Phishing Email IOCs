@@ -93,6 +93,10 @@ Phishing Domain: q6o2u7qdab8l1192sg5m.wmn8esq.ru
 Resolved IP: does not resolve
 Sending Domain: eplancanada.com
 
+Phishing Domain: https://rb.gy/kw02j?rb.routing.mode=proxy&rb.routing.signature=336673#YW5nZWxhLmNvZWxob0BoZWFyLmNvbQ==
+Resolved IP: 34.194.223.150 (Amazon US)
+Sending Domain: ataselmuhendislik.com.tr
+
 "Xerox Fax" Phish
 Phishing Domain: nms6tcrb0o.loughly.tech
 Resolved IP: 199.192.25.226 (US Namecheap)
@@ -168,3 +172,15 @@ Sending Domain: aiscjapan.co.jp
 Phishing Domain: encryptedsharedfiles2faauthentication.com
 Resolved IP: does not resolve
 Sending Domain: ollopk.com
+
+Phishing Domain: bafkreiais4dunagcgilxllob4kqwnh3wzk5rp5ab56ydlamnysg2vrx2ya.ipfs.dweb.link (already taken down by hostiing company); dweb.link/ipfs/QmZxPhiyc4yrRBa9MEqPqmPAadGcUdTLbTFywxtXCmRucw (taken down by host)
+Resolved IP: 209.94.90.1 (Protocol Labs US)
+Sending Domain: yoshikei.gr.jp; midori.gmobb.jp
+
+Phishing Domain: lightbrightmart.com
+Resolved IP: 100.99.90.110 (Shinjiru Technology Sdn Bhd MY)
+Sending Domain: 1031.org
+
+Phishing Domain: https://rb.gy/e1jzy?rb.routing.mode=proxy&rb.routing.signature=596792#a29kZXkuY3Jvc3NldHRAaGVhci5jb20=
+Resolved IP: 34.194.223.150 (Amazon US)
+Sending Domain: hyprov.com
