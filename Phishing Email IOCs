@@ -55,6 +55,10 @@ Phishing Domain:  myalumni.mcgill.ca (target page deleted)
 Resolved IP: 104.17.58.157 (valid McGill Alumni page)
 Sending Domain: kwadwo_brotone4@icloud.com
 
+Phishing Domain: Hear.storage.OFFICE.COM
+Resolved IP: does not resolve
+Sending Domain: usssa.com
+
 "Messages on Hold" Phish
 Phishing Domain: tzmk.uz
 Resolved IP: 62.209.128.119 (Uzbekistan)
@@ -67,6 +71,10 @@ Sending Domain: linkasink.com
 Phishing Domain: https://qr.link/XnaUCv (host shows "QR code deleted")
 Resolved IP: 104.21.74.230
 Sending Domain: presqueisleharbor.org
+
+Phishing Domain: http://blaccuk.franklinareahomes.com/#ZnJhbmsubWFydGVyQGF1ZGliZW5lLmRl (parked domain)
+Resolved IP: 199.59.243.225 (Amazon US)
+Sending Domain: baylinkusa.com
 
 "SharePoint Documents" Phish
 Phishing Domain: links.marketing.audicrm.co.uk (access denied message)
@@ -110,6 +118,11 @@ Sending Domain: coursenetworking.com
 Phishing Domain: mainrotyry.top
 Resolved IP: 172.67.220.85 (US Cloudflare)
 Sending Domain: boisestate.edu
+
+"Secure Messaging" Phish
+Phishing Domain: https://shaadiweds.com/vendor/EhEzkQwh/2gvu1rhk/YWxleGFuZHJhLmthdHRoYWdlbkBoZWFyLmNvbQ==
+Resolved IP: 111.118.215.189 (PDR IN)
+Sending Domain: nashvilledental.com
 
 "Security Authentication" Phish
 These are new phishing attacks that send a QR code to scan to take you to a phishing site. I collected this data by scanning the QR code and detonating the URL in my sandbox. Most use multiple re-directs.
@@ -184,3 +197,35 @@ Sending Domain: 1031.org
 Phishing Domain: https://rb.gy/e1jzy?rb.routing.mode=proxy&rb.routing.signature=596792#a29kZXkuY3Jvc3NldHRAaGVhci5jb20=
 Resolved IP: 34.194.223.150 (Amazon US)
 Sending Domain: hyprov.com
+
+Phishing Domain: e9d02e.6x669ripr.ru
+Resloved IP: 104.21.25.86 (Cloudflare)
+Sending Domain: essexcommunityhistoricalsociety.org
+
+Phishing Domain: fdrmetal.com (my IDS blocked it and Cisco Umbrella notes it as blocked as a phishing/malware site)
+Resolved IP: does not resolve
+Sending Domain: amirault.ca
+
+Phishing Domain: pinjamanonline.org (my IDS blocked it and Cisco Umbrella notes it as blocked as phishing/malware site)
+Resolved IP: does not resolve
+Sending Domain: hexaquestglobal.com
+
+Phishing Domain: microsoftportal.us-east-1.linodeobjects.com
+Resolved IP: 177.255.231.96 (Akamai US)
+Sending Domain: platinumcopiers.com
+
+Phishing Domain: securesignaturesinc.com
+Resolved IP: 213.165.239.168 (InMotion Hosting US)
+Sending Domain: southsidestores.com
+
+Phishing Domain: yfgpbsxz.dvocacyc.ru (presents a fake Microsoft login page)
+Resolved IP: 172.67.200.235 (Cloudflare US)
+Sending Domain: p212121.com
+
+Phishing Domain: https://rb.gy/vf5qx?rb.routing.mode=proxy&rb.routing.signature=41811#YWxleGFuZHJhLmthdHRoYWdlbkBoZWFyLmNvbQ==
+Resolved IP: 3.216.119.162 (Amazon US)
+Sending Domain: kratons.co
+
+Phishing Domain: https://ff8hgqxgu9p.eapparel.net/ (presented a legit O365 login page)
+Resolved IP: 18.170.36.240 (Amazon UK)
+Sending Domain: hexaquestglobal.com
