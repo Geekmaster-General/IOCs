@@ -45,6 +45,10 @@ Phishing Domain: http://97f1ac.exippureshop.com/#YW5hLnRhbmdhcmlAaGVhci5jb20=
 Rssolved IP: does not resolve
 Sender: dalves@americanet.com.br
 
+Phishing Domain: blog.stranebl.ru (loads generic Microsoft-ish login page prefilled with the target's email address)
+Resoved IP: 172.67.175.151 (Cloudflare US)
+Sending Domain: s-o-l.co.jp
+
 "Microsoft Teams File" Phish
 Phishing Domain: vitalityss.co (cypher mismatch error)
 Resolved IP: 45.153.243.131 (Germany)
