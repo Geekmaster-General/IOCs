@@ -1,5 +1,10 @@
 IOCs from Phishing emails reported by my users that should be blocked on your email server and endpoints
 
+"Google Drive" Phish
+Phishing Domain: https://avbc.me/VVR9BufO (Blocked by Defender SmartScreen)
+Resolved IP: 191.6.218.52 (Cyberweb Networks Brazil)
+Sending Domain: lineaccountaccess.helpacccontac.us via drive-shares-dm-noreply@google.com
+
 "Password Reset" Phish
 Phishing Domain: trailblazingtrans.com (Blocked by Defender SmartScreen)
 Resolved IP: 162.241.120.242 (NetworkSolutions US)
