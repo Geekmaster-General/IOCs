@@ -191,3 +191,11 @@ Sending Domain: megastar.jp
 Phishing URL: https://docupreview-portal-biz-signtoday.kanakratna.com/?9ANH=0H0
 Resolved IP: 139.144.68.85 (Akamai DE)
 Sending Domain: nsi983.com
+
+Phishing URL: https://r20.rs6.net (blocked by Defender SmartScreen)
+Resolved IP: 208.75.122.11 
+Sending Domain:bloom-london.com
+
+Phishing URL: https://trk.klclick3.com/ (blocked by Defender SmartScreen)
+Resolved IP: 143.204.176.45 (Amazon CloudFront US)
+Sending Domain: feg43.com
