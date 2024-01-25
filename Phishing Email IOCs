@@ -246,3 +246,9 @@ Sending Domain: hexaquestglobal.com
 Phishing DOmain: https://teklz9bq4r5ah6s.swnbdgfgzy.ru/
 Resolved IP: 104.21.76.226 (Cloudflare US)
 Sending Domain: mediabarker.com
+
+"Microsoft Authenticator" Phish
+These are specific quishing attacks mascarading as a "new authentication" for a targeted user. May include company branding.
+Phishing Domain: https://pub-f02fa7701f9d4e13b153923f51b905e7.r2.dev/New-0987654323456789087654345678-987654323456789098765432345678909876543345678.html?email=[redacted] (blocked by Defender SmartScreen)
+Resolved IP: 104.18.3.35 (Cloudflare)
+Sending Domaine: cjcharles.com
