@@ -207,3 +207,15 @@ Sending Domain: siamweb.com
 Phishing URL: https://mjsshootingsupplies.com.au (WOT Security Warning)
 Resolved IP: 172.93.120.161 (Host Geeks LLC US)
 Sending Domain: miamibeachnotary.org
+
+Phisning URL: https://ldputkfulu.4amclub1x2.com/ (blocked by Defender SmartScreen)
+Resolved IP: 172.67.211.199 (Cloudflare US)
+Sending Domain: chem.kyushu-univ.jp
+
+Phishing Domain: vk.com to baidu.com (both are blocked as Custom Indicators in my security platform)
+Resolved IP: will not resolve, because of my hard-block on these domains
+Sending Domain: ims-pos.com
+
+Phishing URL: https://bafkreiaiwfzehinucnopkboksayph4ni6ga3os4rc46g6jo4odqlbyzeny.ipfs.cf-ipfs.com/ (blocked by Defender SmartScreen and WOT)
+Resolved IP: 104.17.64.14 (Cloudflare)
+Sending DOmain: miamibeachnotary.org
