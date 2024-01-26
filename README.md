@@ -5,7 +5,7 @@ All information is public.
 
 All sensitive information has already been redacted.
 
-I will add CSV files regularly.
+I will update this data regularly.
 
 IP's already reported to AbuseIPDB.
 
