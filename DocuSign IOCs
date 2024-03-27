@@ -274,4 +274,8 @@ Sender: mike@byrnesconsulting.com
 
 Phishing URL: https://nsn.org.ng/ redirects to https://761cc8d1.05afedcdab45bff9bc5c0f71.workers.dev/
 Resolved IP: 172.67.161.222 (Cloudflare US)
-Sending DOmain: multilogistics.jp (153.127.234.4)
+Sending Domain: multilogistics.jp (153.127.234.4)
+
+Phishing URL: https://ct.turing.bz/ (blocked by Defender SmartScreen)
+Resolved IP: 34.107.198.64 (Google Cloud US)
+Sending Domain: suloasia.com.sg (23.249.208.17)
